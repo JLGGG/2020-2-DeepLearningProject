@@ -3,7 +3,7 @@
 See Issues category for implemenation order.
 
 ---   
-
+#### File Description     
 + ClassificationCNN : Image classification model using dataset CIFAR10(variable-size image support).   
 + OriginalCifar10UsingTransferLearning : Bring pre-trained model and transfer learning test.    
 + Randomization : Implementing a randomization preprocess layer designed to mitigate adversarial effects.   
