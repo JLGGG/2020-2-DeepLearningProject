@@ -2,7 +2,8 @@
 #### Project implementation for the second semaster of 2020 in the deep learning course.<br>
 See Issues category for implemenation order.
 
----
+---   
+
 + ClassificationCNN : Image classification model using dataset CIFAR10(variable-size image support).   
 + OriginalCifar10UsingTransferLearning : Bring pre-trained model and transfer learning test.    
 + Randomization : Implementing a randomization preprocess layer designed to mitigate adversarial effects.   
